@@ -6,7 +6,7 @@ public class method {
 		while (sum < 20) { 
 			n++; 
 			sum+=n;
-			} System.out.println(sum+1);
+			} System.out.println(sum-1);
 		}
 }
 
